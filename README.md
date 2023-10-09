@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, Developers! 👋
 
-<!--
-**riccardokhm/riccardokhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 PhD candidate in Mechanical Engineering at the University of Modena and Reggio Emilia [(UNIMORE)](https://www.unimore.it/).
+- 🌱 I’m currently integrating human physiological data in innovative VR&AR applications.
+-   You can found my academic references and publications [here](http://personale.unimore.it/Rubrica/dettaglio/rcrkhamaisi).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vision
+
+
+### Connect with me
+![image]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
+
+### My everyday bread
+
