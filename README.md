@@ -4,7 +4,7 @@ Hi there!👋  I'm Riccardo Karim! 🧑🏾‍💻
 
 <h4 align="center">
   
-A .net and Unity 3D developer 
+A .net and AR/VR/Unity 3D developer 
 
 
 
