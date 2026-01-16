@@ -16,7 +16,7 @@ A .Net and XR/Unity 3D developer
 
 - 🎓 PhD in Mechanical Engineering at the University of Modena and Reggio Emilia [(UNIMORE)](https://www.unimore.it/).
 - 🌱 I’m currently integrating human factors within innovative VR&AR applications to optmize industrial processes and products with a Model-Based Design approach.
--  ℹ️ You can found my academic references and publications [here](http://personale.unimore.it/Rubrica/dettaglio/rcrkhamaisi).
+-  ℹ️ You can found my academic references and publications [here](https://www.researchgate.net/profile/Riccardo-Khamaisi-3/research).
 
 
 ### Vision
