@@ -20,8 +20,8 @@ A .Net and XR/Unity 3D developer
 
 
 ### Vision
-
-
+<img src=
+I build digital systems based on a tricentric view of industrial processes, where humans, machines, and digital assets continuously interact and co-evolve. My work sits at the intersection of XR, computer graphics, AI/ML, and engineering data, focusing on transforming CAD, geometry, and process knowledge into actionable, human-centric tools. I’m particularly interested in how simulation, data-driven models, and intelligent interfaces can bridge physical factories and human experience through a coherent digital layer. Curiosity—technical and personal—drives how I explore, prototype, and connect these domains.
 ### Connect with me
 
 <p>
@@ -38,3 +38,6 @@ A .Net and XR/Unity 3D developer
 
 ### My everyday bread
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,unity,visualstudio,figma)](https://skillicons.dev)
+<br/>
+<br/>
+[Codecademy account](https://www.codecademy.com/profiles/Riccardokhm)
